@@ -1,2 +1,2 @@
 # Simplewebsite
-# To run the projects, you can run the index file.
+# To run the project, you can run the index file.
